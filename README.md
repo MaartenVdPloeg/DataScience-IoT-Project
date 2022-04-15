@@ -5,8 +5,7 @@
 This project uses two sensors and uploads the values to the io.adafruit cloud using the MQTT protocol. The data that is generated will be uploaded to the io.adafruit cloud service to analyze the data in realtime and in further detail.
 There will be 3 values uploaded and you can use the io.adafruit analytical tools to display these to your own personal preference. 
 
-[Follow the link here to view my example page on io.adafruit.]
-(https://io.adafruit.com/Shaolu/dashboards/temperature-and-humidity) 
+[Follow the link here to view my example page on io.adafruit.](https://io.adafruit.com/Shaolu/dashboards/temperature-and-humidity) 
 
 ![AdafruitExample](https://user-images.githubusercontent.com/103762292/163617910-453af5eb-699f-475a-9202-4e769a79db85.PNG)
 
