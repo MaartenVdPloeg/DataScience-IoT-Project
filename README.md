@@ -46,3 +46,17 @@ You can find the data sheet for the DHT-22 sensor [here.](https://www.sparkfun.c
 
   - Adafruit IO
   - Arduino IDE
+
+## Connect the components to the ESP8266
+
+#### MHZ-19 pin connections: 
+
+PWM pin -> D5 pin
+Vin pin -> 3.3V pin
+GND pin -> GND pin
+
+#### DHT-22 pin connections:
+
+Data pin -> D6
+Vin pin -> 3.3V pin
+GND pin -> GND pin
