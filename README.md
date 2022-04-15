@@ -35,4 +35,14 @@ You can find the data sheet for the DHT-22 sensor [here.](https://www.sparkfun.c
 
 ![project_parts](https://user-images.githubusercontent.com/103762292/163607917-80506998-b1e0-41a8-b5e2-9f509635acbf.jpg)
 
+  - ESP-8266
+  - DHT-22 Sensor
+  - MHZ-19 Sensor
+  - Breadboard(s)
+  - Jumper wires
+  - Micro-USB cable capable of sync (not just charging capability)
 
+### Software
+
+  - Adafruit IO
+  - Arduino IDE
