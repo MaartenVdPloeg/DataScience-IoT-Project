@@ -31,6 +31,8 @@ You can find the data sheet for the DHT-22 sensor [here.](https://www.sparkfun.c
 
 ## Why MQTT is suitable for IoT applications
 
+Using the MQTT protocol has certain benefits as described briefly below:
+
 > *Residing on top of the TCP/IP network stack, MQTT is a lightweight publish/subscribe messaging protocol designed for low-bandwidth, high latency, unreliable networks. MQTT's features make it an excellent option for sending high volumes of sensor messages to analytics platforms and cloud solutions.*
 
 Retrieved from: https://behrtech.com/blog/mqtt-in-the-iot-architecture/
