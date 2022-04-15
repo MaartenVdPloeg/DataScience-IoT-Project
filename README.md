@@ -84,3 +84,7 @@ Add the following libraries:
   - [ESP8266Wifi library](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/)
   - [Adafruit MQTT library](https://github.com/adafruit/Adafruit_MQTT_Library)
   - [MHZ19 library](https://github.com/crisap94/MHZ19)
+
+### Make an Adafruit IO account
+
+[Create an Adafruit IO account] and create the topics Humidity, Temperature and CO2. That way you can upload the code with your Wifi-credentials and your Adafruit IO Username and KEY, without having to change the code.
