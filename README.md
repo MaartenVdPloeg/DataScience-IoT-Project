@@ -29,6 +29,12 @@ Retrieved from: https://www.adafruit.com/product/385
 
 You can find the data sheet for the DHT-22 sensor [here.](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf)
 
+## Why MQTT is suitable for IoT applications
+
+> *Residing on top of the TCP/IP network stack, MQTT is a lightweight publish/subscribe messaging protocol designed for low-bandwidth, high latency, unreliable networks. MQTT's features make it an excellent option for sending high volumes of sensor messages to analytics platforms and cloud solutions.*
+
+Retrieved from: https://behrtech.com/blog/mqtt-in-the-iot-architecture/
+
 ## How to build this project?
 
 ### Hardware required
@@ -60,3 +66,5 @@ You can find the data sheet for the DHT-22 sensor [here.](https://www.sparkfun.c
 - Data pin -> D6
 - Vin pin -> 3.3V pin
 - GND pin -> GND pin
+
+## Connect the components to the ESP8266
