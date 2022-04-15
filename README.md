@@ -5,7 +5,9 @@
 This project uses two sensors and uploads the values to the io.adafruit cloud using the MQTT protocol. The data that is generated will be uploaded to the io.adafruit cloud service to analyze the data in realtime and in further detail.
 There will be 3 values uploaded and you can use the io.adafruit analytical tools to display these to your own personal preference. 
 
-Follow the link [here](https://io.adafruit.com/Shaolu/dashboards/temperature-and-humidity) to view my example page on io.adafruit.
+[Follow the link here](https://io.adafruit.com/Shaolu/dashboards/temperature-and-humidity) to view my example page on io.adafruit.
+
+![AdafruitExample](https://user-images.githubusercontent.com/103762292/163617910-453af5eb-699f-475a-9202-4e769a79db85.PNG)
 
 ## MHZ-19 CO2 Sensor
 
@@ -70,3 +72,4 @@ Retrieved from: https://behrtech.com/blog/mqtt-in-the-iot-architecture/
 - GND pin -> GND pin
 
 ## Connect the components to the ESP8266
+![AdafruitExample](https://user-images.githubusercontent.com/103762292/163617910-453af5eb-699f-475a-9202-4e769a79db85.PNG)
