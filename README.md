@@ -28,3 +28,11 @@ A brief explanation of the DHT-22 sensor:
 Retrieved from: https://www.adafruit.com/product/385
 
 You can find the data sheet for the DHT-22 sensor [here.](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf)
+
+## How to build this project?
+
+### Hardware required
+
+![project_parts](https://user-images.githubusercontent.com/103762292/163607917-80506998-b1e0-41a8-b5e2-9f509635acbf.jpg)
+
+
