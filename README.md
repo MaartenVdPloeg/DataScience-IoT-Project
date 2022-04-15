@@ -71,5 +71,16 @@ Retrieved from: https://behrtech.com/blog/mqtt-in-the-iot-architecture/
 - Vin pin -> 3.3V pin
 - GND pin -> GND pin
 
-## Connect the components to the ESP8266
-![AdafruitExample](https://user-images.githubusercontent.com/103762292/163617910-453af5eb-699f-475a-9202-4e769a79db85.PNG)
+### Using the ESP8266
+
+If you're new to using the ESP-8266, [follow this guide to learn more.](https://randomnerdtutorials.com/installing-esp8266-nodemcu-arduino-ide-2-0/)
+
+### Install all the libraries required for this project
+
+To install/add libraries to your Arduino IDE, go to: Tools -> Manage Libraries -> Library Manager -> Search...
+
+Add the following libraries:
+  - [SimpleDHT sensor library](https://github.com/winlinvip/SimpleDHT/blob/master/README.md)
+  - [ESP8266Wifi library](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/)
+  - [Adafruit MQTT library](https://github.com/adafruit/Adafruit_MQTT_Library)
+  - [MHZ19 library](https://github.com/crisap94/MHZ19)
