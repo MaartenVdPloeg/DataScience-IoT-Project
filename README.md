@@ -7,7 +7,7 @@ There will be 3 values uploaded and you can use the io.adafruit analytical tools
 
 Follow the link [here](https://io.adafruit.com/Shaolu/dashboards/temperature-and-humidity) to view my example page on io.adafruit.
 
-### MHZ-19 CO2 Sensor
+## MHZ-19 CO2 Sensor
 
 A brief explanation of the MHZ19 CO2 sensor:
 
@@ -19,7 +19,7 @@ Retrieved from: https://www.circuits.dk/testing-mh-z19-ndir-co2-sensor-module/
 
 You can find the data sheet for the MHZ-19 CO2 sensor [here.](https://www.winsen-sensor.com/d/files/infrared-gas-sensor/mh-z19b-co2-ver1_0.pdf)
 
-### DHT-22 Temperature & Humidity Sensor
+## DHT-22 Temperature & Humidity Sensor
 
 A brief explanation of the DHT-22 sensor:
 
