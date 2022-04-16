@@ -90,4 +90,7 @@ Add the following libraries:
 
 ### Make an Adafruit IO account
 
-[Create an Adafruit IO account] and create the topics Humidity, Temperature and CO2. That way you can upload the code with your Wifi-credentials and your Adafruit IO Username and KEY, without having to change the code.
+![Project_FinalOverview](https://user-images.githubusercontent.com/103762292/163675866-3d02830c-4dc0-40b3-aee0-28cd898e5b0f.jpg)
+
+[Create an Adafruit IO account](https://io.adafruit.com/) and create the topics Humidity, Temperature and CO2. That way you can upload the code with your Wifi-credentials and your Adafruit IO Username and KEY, without having to change the code besides that. 
+
