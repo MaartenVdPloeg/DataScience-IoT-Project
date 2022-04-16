@@ -71,7 +71,7 @@ Retrieved from: https://behrtech.com/blog/mqtt-in-the-iot-architecture/
 - Vin pin -> 3.3V pin
 - GND pin -> GND pin
 
-![Project_Fritzing_Schematic](https://user-images.githubusercontent.com/103762292/163677297-d97c01f6-4428-4496-a2ab-e47259a476fa.PNG)
+![Project_Fritzing_Schematic](https://user-images.githubusercontent.com/103762292/163681479-9253a15b-b3b7-471d-8cf6-0bbdcb2e9466.PNG)
 
 ### Using the ESP8266
 
@@ -100,4 +100,5 @@ Following these steps and entering your Wifi-credentials, your Adafruit IO Usern
 I hope you will enjoy this IoT-project. 
 
 ![Project_FinalOverview](https://user-images.githubusercontent.com/103762292/163675866-3d02830c-4dc0-40b3-aee0-28cd898e5b0f.jpg)
+
 
