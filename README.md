@@ -86,7 +86,7 @@ Add the following libraries:
   - [MHZ19 library](https://github.com/crisap94/MHZ19)
  
  
- Note: I have added the library files in a seperate branch, except for the ESP-8266. This requires an extra step to intergrate library of the board in the IDE.
+ Note: I have added the library files in [a seperate branch](https://github.com/MaartenVdPloeg/DataScience-IoT-Project/tree/main/Project_Libraries) aswell, except for the ESP-8266 libraries. This requires an extra step to intergrate library of the board in the IDE.
 
 ### Make an Adafruit IO account
 
