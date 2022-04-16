@@ -62,7 +62,7 @@ Retrieved from: https://behrtech.com/blog/mqtt-in-the-iot-architecture/
 #### MHZ-19 pin connections: 
 
 - PWM pin -> D5 pin
-- Vin pin -> 3.3V pin
+- Vin pin -> VV pin
 - GND pin -> GND pin
 
 #### DHT-22 pin connections:
