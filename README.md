@@ -93,7 +93,7 @@ Add the following libraries:
 
 [Create an Adafruit IO account](https://io.adafruit.com/) and create the topics Humidity, Temperature and CO2. You will then be able to create a dashboard and utilise different visual tools to display the data that generated to the Temperature, Humidity and CO2 feeds. 
 
-Following these steps and entering your Wifi-credentials, your Adafruit IO Username and KEY into the Arduino Code, will then leave you to upload the code to the ESP-8266. Ensure the correct COM-port is selected and you have selected the correct version of ESP-8266 according to the model you are using. (In my example I used the [NodeMCU ESP8266](https://components101.com/development-boards/nodemcu-esp8266-pinout-features-and-datasheet)) 
+Following these steps and entering your Wifi-credentials, your Adafruit IO Username and KEY into the Arduino Code, will then leave you to upload the code to the ESP-8266. Ensure the correct COM-port is selected and that you have selected the correct version of ESP-8266 according to the model you are using. (In my example I used the [NodeMCU ESP8266](https://components101.com/development-boards/nodemcu-esp8266-pinout-features-and-datasheet)) 
 
 I hope you will enjoy this IoT-project. 
 
