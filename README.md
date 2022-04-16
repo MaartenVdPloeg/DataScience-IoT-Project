@@ -88,9 +88,11 @@ Add the following libraries:
  
  Note: I have added the library files in [a seperate branch](https://github.com/MaartenVdPloeg/DataScience-IoT-Project/tree/main/Project_Libraries) aswell, except for the ESP-8266 libraries. This requires an extra step to intergrate library of the board in the IDE.
 
-### Make an Adafruit IO account
+### Make an Adafruit IO account, feeds and a dashboard
+
+
+[Create an Adafruit IO account](https://io.adafruit.com/) and create the topics Humidity, Temperature and CO2. You will then be able to create a dashboard and utilise different visual tools to display the data that generated to the Temperature, Humidity and CO2 feeds. 
+
+Following these steps and entering your Wifi-credentials, your Adafruit IO Username and KEY, will then leave you to upload the code. I hope you will enjoy this IoT-project. 
 
 ![Project_FinalOverview](https://user-images.githubusercontent.com/103762292/163675866-3d02830c-4dc0-40b3-aee0-28cd898e5b0f.jpg)
-
-[Create an Adafruit IO account](https://io.adafruit.com/) and create the topics Humidity, Temperature and CO2. That way you can upload the code with your Wifi-credentials and your Adafruit IO Username and KEY, without having to change the code besides that. 
-
